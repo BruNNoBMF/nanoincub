@@ -1,0 +1,28 @@
+.btn-excluir {
+  background-color: #b30000;
+  color: #FFFFFF;
+}
+
+.btn-excluir:hover,
+.btn-excluir:focus {
+  background-color: #800000;
+  color: #f9f4f5;
+  background-position: 0 -15px;
+}
+
+.btn-editar {
+  background-color: #42ba66;
+  color: #FFFFFF;
+}
+
+.btn-editar:hover,
+.btn-editar:focus {
+  background-color: #2e8247;
+  color: #f9f4f5;
+  background-position: 0 -15px;
+}
+
+.panel-custom > .panel-heading {
+  background-color: #808080;
+  color: #fff;
+}
